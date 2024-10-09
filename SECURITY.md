@@ -4,8 +4,8 @@
 
 The following table outlines the versions of the project that are currently supported with security updates.
 
-| Version  | Supported          |
-| -------- | ------------------ |
+| Version  | Supported              |
+| -------- | ---------------------- |
 | Beta 0.0 | :x: (Not yet released) |
 
 ## Reporting Vulnerabilities

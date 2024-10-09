@@ -1,9 +1,12 @@
-import type { ReactNode } from "react";
+import type { ReactNode } from 'react';
+import '@/styles/global.css';
 
 interface RootRouteProps {
     children: ReactNode;
 }
 
-export default function RootRoute({ children }: RootRouteProps): JSX.Element {
-    return <main className="main">{children}</main>;
-}
+const RootRoute = ({ children }: RootRouteProps): JSX.Element => {
+    return <main>{children}</main>;
+};
+
+export default RootRoute;

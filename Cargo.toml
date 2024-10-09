@@ -1,6 +1,6 @@
 [package]
-name = "tuono"
-version = "0.0.1"
+name = "konyogony-dev"
+version = "0.0.0"
 edition = "2021"
 
 [[bin]]
